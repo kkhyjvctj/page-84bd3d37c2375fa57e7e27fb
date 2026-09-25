@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.gg71gv.cn/sitemap.xml
